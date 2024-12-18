@@ -1,64 +1,63 @@
-# Hi there! 👋 I'm Mohamed Yasser Kirbalo
+# 👋 Hi there! I'm **Mohamed Yasser Kirbalo** 👨‍💻
 
----
-
-### **SOFTWARE ENGINEER | .NET Developer**
+### **💻 Software Engineer | .NET Developer**
 
 As a dedicated and detail-oriented backend developer, I specialize in **ASP.NET Core** with a strong foundation in:
 
-- **Entity Framework Core (EF Core)**
-- **ADO.NET**
-- **SQL**
 - **ASP.NET Web API**
+- **ASP.NET Web MVC**
+- **Entity Framework Core (EF Core)**
+-  **SQL**
+
 
 I hold a Bachelor's degree from the **Faculty of Computers and Information, Mansoura University**, equipping me with a comprehensive understanding of software development principles and practices.
 
 ---
 
-### **🔧 Technical Skills**
+### 🔧 **Tech Stack & Tools** 🔧
 
-#### **Programming Languages & Frameworks:**
+#### **Programming Languages & Frameworks**:
 
-- **C#**, **JavaScript**, **HTML**
-- **ASP.NET Core**, **ASP.NET MVC**, **ASP.NET Web API**
-- **LINQ**, **Entity Framework Core (EF)**
+- 🖥️ **C#**, **JavaScript**, **HTML**
+- 🛠️ **ASP.NET Core**, **ASP.NET MVC**, **ASP.NET Web API**
+- 🔍 **LINQ**, **Entity Framework Core (EF)**
 
-#### **Tools & Technologies:**
+#### **Tools & Technologies**:
 
-- **Visual Studio**, **Visual Studio Code**
-- **SQL Server**
-- **Git & GitHub**
+- ⚙️ **Visual Studio**, **Visual Studio Code**
+- 🗄️ **SQL Server**
+- 🧑‍💻 **Git & GitHub**
 
-#### **Core Concepts:**
+#### **Core Concepts**:
 
-- **Object-Oriented Programming (OOP)**
-- **Clean Coding Practices**
-- **Data Structures**
-
----
-
-### **🌟 Soft Skills**
-
-- Learning Potential
-- Teamwork
-- Organization
-- Flexibility
-- Responsibility
-- Multitasking
-- Collaboration
+- 💡 **Object-Oriented Programming (OOP)**
+- 🧹 **Clean Coding Practices**
+- 🧮 **Data Structures**
 
 ---
 
-### **📌 Featured Project**
+### 🌟 **Soft Skills** 🌟
 
-#### [Roaia · Graduation Project](https://github.com/Roaia-s/Roaia-API-APP) (Dec 2023 - Jan 2024)
+- 🧠 **Continuous Learning**
+- 🤝 **Team Collaboration**
+- 📅 **Organization**
+- 🔄 **Flexibility**
+- ✅ **Responsibility**
+- ⚡ **Multitasking**
 
-- Developed a robust backend service using **ASP.NET Core**, designed to integrate seamlessly with mobile applications.
-- Leveraged **SignalR** for real-time communication and built a scalable backend infrastructure.
-- Utilized **.NET API** framework to design and develop APIs for high-performance web applications.
+---
 
+### 📌 **Featured Project** 💼
 
-### **📜 Certifications**
+#### [**Roaia · Graduation Project**](https://github.com/Roaia-s/Roaia-API-APP) (Dec 2023 - Jan 2024)
+
+- 🔧 **Backend Service** developed using **ASP.NET Core**, designed for mobile app integration.
+- 🔗 **SignalR** for real-time communication.
+- 🚀 Built **scalable infrastructure** for high-performance APIs.
+
+---
+
+### **📜 Certifications** 🏅
 
 1. **Web Development Using .NET**
 
