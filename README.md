@@ -79,14 +79,18 @@ I hold a Bachelor's degree from the **Faculty of Computers and Information, Mans
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYK220&layout=compact&theme=radical)
 
 ---
+### 📫 **Let's Connect!** 🤝
 
-### **📫 How to Reach Me**
+I'm always open to new opportunities, collaborations, and exciting projects. Feel free to reach out to me through any of the following channels:
 
-- **LinkedIn:** [Mohamed Kirbalo](https://www.linkedin.com/in/mohamed-kirbalo-615072265)
-- **WhatsApp:** [+201113668472](https://wa.me/201113668472)
-- **Email:** [mohamedkirbalo620@gmail.com](mailto:mohamedkirbalo620@gmail.com)
+- **🔗 LinkedIn:** [Mohamed Kirbalo](https://www.linkedin.com/in/mohamed-kirbalo-615072265)
+- **📲 WhatsApp:** [Chat with me](https://wa.me/201113668472)
+- **📧 Email:** [mohamedkirbalo620@gmail.com](mailto:mohamedkirbalo620@gmail.com)
+
+Let’s create something awesome together! 🚀✨
 
 ---
+
 
 ### **💡 Fun Fact**
 
